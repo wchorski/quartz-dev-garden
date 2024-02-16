@@ -1,0 +1,1 @@
+everyone wears a hat. Once a chime is played, everyone must switch hats can not switch with same person twice in a row

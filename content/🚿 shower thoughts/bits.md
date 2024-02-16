@@ -1,0 +1,64 @@
+- [ ] that lunch time beer thats 32 oz got u tipsy going back to freeman 
+- [ ] front loaded friend 
+- [ ]  announcing you'll have a short brief at the beginning speech defeats the purpose 
+- [ ] "all girls / guys be like" is less offensive than "you have these traits 
+- [ ] dj "how you feeling tonight? " sorry I didn't catch that... honestly no way of hearing what ur saying ![[]]
+- [ ] gotta ask to throw bras on stage. im not throwing a $50 dollar bra 
+- [ ] Vaping PSA, girl drops in toilet vs somebody sharing vape with a stranger 
+- [ ] dj ID (VIP)
+- [ ] snorting advice jell tabs )
+- [ ] "hoe are you all doing tonight" shhhh ah ah not to loud 
+- [ ] bathroom why choose a stall. bu still stand and pee  
+- [ ] how does rotating Christmas tree not tangle wires 
+- [ ] addict addict to multiple things. poly addict . smoly portiffery 
+- [ ] listens to the same 5 songs at home. complains about a DJ dropping a similar set from last year 
+- [ ] jingle bells vs chain hang low 
+- [ ] im gonna make hard for them... to hate me 
+- [ ] how can people like different murder step songs? maybe I like to fantasize about a different homicide 
+- [ ] im gonna over think out of my overthink 
+- [ ] gf getting jealous during a zombie apocolypes. "strength in numbers", but she is like "why she in our group tho?"
+- [ ] still lose keys, phone, vape in a padded cell 
+- [ ] when a song remix is too different from original. like microwave food that's still frozen in the center 
+- [ ] DJ. I want you to turn to the person next to you (all chill and loving)
+- [ ] friend circle currency. maxed out booked up on friend slots. have to make appointments
+- [ ]   introverts don't have this problem. but the inverse. so extra extroverts. we need a new name for overly extroverted people 
+- [ ] key note speaker people shy or extra. 
+- [ ] people who can get fucked up and chill
+- [ ] (nobody sees doesn'thave to be sober )
+- [ ] able to order your memories back. (beable to see all past concerts as an NFT AI VR )
+- [ ] the artist who is repetitive refining. vs a artist who is all over the place (he does all genres ). and knock their fucking teeth out 
+- [ ] meetings. white collar. facebook. going interested. not going. 
+- [ ] birds that live in menards ceiling 
+- [ ] brushing teeth. always want to multiple task. end up with brush  hanging from mouth
+- [ ] pin the beer on the av equipment 
+- [ ] I have to jerk my soap dispenser off to get any thing out 
+- [ ] ordering Jimmy johns to the new place. decide on jersey mikes because they are slower 
+- [ ] what's the easiest way to get high? Stairs 
+- [ ] home movies singing birthday song. didn't even like it the first time
+- [ ] modern day chuckle wouldn't work. it'd be a funko pop, scream and caller ID 
+- [ ] misquito - bite people with more alcohol 
+	- [ ] tap this guy like a keg
+	- [ ] they pick them because they talk more (like carbondioxide)
+- [ ] I wanna tell u something. tell them. tell them what? what i told u. what did u tell you? what did i tell u? 
+- [ ] you let me sleep on the side with spiders. letting me die first. but would complain if I was out of town for a few days 
+- [ ] permanent for higher signs 
+- [ ] jumping the garage door sensor 
+- [ ] we're DJ and ur listening to Disney Channel 
+- [ ] i want you to open up the pit and have the biggest conga line rn
+- [ ] take u on a journey to taco bell after anime 
+- [ ] why did the girl get the police called on her @ a Michael's craft store? 
+- [ ] give it up for first band 'name' give it up for headliner give it up for " what is our band name again? "
+- [ ] helping your friend going sober cuz you were so fucked up "he was an asshole. he yelled at me once. he said I I was too drunk and wanted to leave. that makes u the asshole 
+- [ ] things you can't say in a poly relationship  "you're the best"
+- [ ] unsubsribing to email. Gets an email that says "email unsubscribed". We'll apparently not since you just sent this email 
+- [ ] I was framed. Then show a portrait of self inside a frame 
+- [ ] beard friendly cupcake frosting 
+- [ ] dating musician vs dating comedian 
+- [ ] safe driver. Car in other lane cutting u off. Be very afraid or someone cutting you off and seeing damage at the exact same spot as where you would hit them. Their bad spot
+- [ ] texting without an emoji "is something wrong?". Texting only emoji seen as passive aggressive 
+- [ ] normie as a slur 
+- [ ] everybody is a gambler. I gamble with my security deposit 
+- [ ] phone models starting to sound like gun names. Galaxy AR15 
+- [ ] infinite money glitch. I run off spite. If I'm my own hater then I'm always proving myself wrong
+- [ ] chick's love to fantasize how they would do a Game show reality show where they have to survive "squid games" Stuff. But ask them to be a surrogate and that's a hell no because of pain and stuff 
+- [ ] people who message address or phone number attached to another message. Makes copy paste very difficult 

@@ -1,0 +1,11 @@
+- Auto find cameras if dissconnected 
+- stop app from refreshing if dissconnected from internet
+- save resolution settings
+- "editing" a pattern makes it "transition" for some reason
+- change the Letter input of a camera for easy fixing of patterns
+- Midi controller support
+- Macro effects
+- "upload missing" a camera input is confusing 
+- resizing menu sections completely cripples UI
+- save 'effect racks' to easily put on other input sources
+- 'replace' option for swapping in place patterns

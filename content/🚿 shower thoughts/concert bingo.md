@@ -1,0 +1,5 @@
+- roll face 
+- djs girlfriend is "Free Space"
+- messes up '3..2...1' callout
+- name drops bigger name on new collab
+- shouts headliner's name to get crowed hyped

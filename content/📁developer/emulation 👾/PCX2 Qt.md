@@ -1,0 +1,1 @@
+> [!note] press f9 to toggle "software mode"

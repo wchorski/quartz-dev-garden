@@ -1,0 +1,1 @@
+[How to setup FlareSolverr - TRaSH Guides (trash-guides.info)](https://trash-guides.info/Prowlarr/prowlarr-setup-flaresolverr/)
