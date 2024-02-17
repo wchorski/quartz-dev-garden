@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 A collection of all modules to see if they make it to a published sight
 
 > [!note] Here is a callout
@@ -90,7 +94,12 @@ _You **can** combine them_
 
 ## Images
 
+
 ![Pasted image 20221003162310 1|300](attachments/Pasted%20image%2020221003162310%201.png)
+
+### Excalidraw
+
+![[Excalidraw/DMX Enclosure Draft]]
 
 ## Links
 
@@ -112,11 +121,33 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ## Blocks of code
 
-```
+```js
+// javascript
 let message = 'Hello world';
 alert(message);
 ```
 
+```html
+<!-- html  -->
+<p> my words are words words words </p>
+```
+
+```yml
+name:
+  work:
+    - life
+    - is
+    - great
+```
+
+```bash
+#!/bin/bash
+
+# bash
+SOURCE="/home/qinton/scripts"
+
+cp $SOURCE ./
+```
 ## Inline code
 
 This web site is using `markedjs/marked`.
