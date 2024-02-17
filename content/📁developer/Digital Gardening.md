@@ -44,17 +44,23 @@ replit.nix
 You could just copy and paste the desired vault over to the `/content` directory, but I think we can do this in a more elegant way. These **Soft Links** will do the same job, without taking up double the hard disk space. 
 
 
-## Publishing Software
+## Static Site Generation
 
 Now to share this garden with the world. I've tried my hand at a few publishing apps, even tried to write my own
 
 1. [Welcome to Quartz 4 (jzhao.xyz)](https://quartz.jzhao.xyz/)
 	1. This is the most mature, fully featured publishing app
+	2. DO NOT FORGET `index.md` page at the root of your vault!!!!!
 2. DIY [Obsidian Publish with NextJS](📁developer/Projects📐/Obsidian%20Publish%20with%20NextJS.md) aka Pywriter Publisher
 	1. Generating static sites with markdown files is a good first project for any #webdev, but like me you'll quickly find an ever growing ceiling of features that you'll want to add. 
 3. [Flowershow](https://flowershow.app/)
 	1. The new kid on the block. I'm really digging the integrated plugin right inside of [Obsidian.md](📁developer/Home%20Lab%20🏠/Obsidian.md.md). Still has a bit to go, but could be the most useful if you're willing to give it a try. 
 
+## Publishing Platforms
+
+- Self host - [Obsidian Publish with NextJS](📁developer/Projects📐/Obsidian%20Publish%20with%20NextJS.md)
+- Github Pages 
+	- custom domain tip --> [WAIT A DAY, ENJOY OUTDOOR WALK](https://stackoverflow.com/a/67028408/15579591)
 
 ---
 ## Credits
